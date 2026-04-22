@@ -29,7 +29,7 @@ Linkout 是一款专为 Windows 平台设计的轻量级剪贴板链接净化工
 ```bash
 git clone https://github.com/WkJ01N/Linkout.git
 ```
-3. 使用 .NET CLI 发布单文件（依赖系统环境版）：
+2. 使用 .NET CLI 发布单文件（依赖系统环境版）：
 ```bash
 dotnet publish -c Release -r win-x64 --no-self-contained -p:PublishSingleFile=true
 ```
