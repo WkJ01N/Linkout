@@ -1,4 +1,4 @@
-# Linkout - README & Release Notes
+# Linkout
 
 ## README.md
 
