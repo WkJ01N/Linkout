@@ -1,9 +1,5 @@
 # Linkout
 
-## README.md
-
-# Linkout
-
 Linkout 是一款专为 Windows 平台设计的轻量级剪贴板链接净化工具。它能够自动监测剪贴板中的文本，识别并剔除各大视频、社交及电商平台的追踪参数（Tracking Parameters），还原纯净的分享链接。
 
 ## 核心功能
